@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/forms";
+/* Allow dark:* classes to activate when .dark exists */
+@custom-variant dark (&:where(.dark, .dark *));
