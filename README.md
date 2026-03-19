@@ -84,7 +84,7 @@ To facilitate updates to the code, I ran
 ```bash
 git clone https://github.com/GemKW/gkw-portfolio.git
 ```
-This created a fresh local copy of the repo Vercel is connected to.
+This created a fresh local copy of the repository Vercel is connected to.
 I then switched the workspace to the gkw-portfolio folder to work directly with the correct repository.
 
 I added 
