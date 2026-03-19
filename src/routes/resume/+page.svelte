@@ -1,3 +1,4 @@
+<!-- Resume page: Presents education, experience, skills, and navigation links -->
 <section
   class="
     resume mx-auto max-w-4xl px-4 py-10 space-y-10 text-base
@@ -10,7 +11,7 @@
   <!-- PAGE TITLE -->
   <h1 id="top" class="text-3xl font-bold tracking-tight">Resume</h1>
 
-  <!-- ANCHOR NAV -->
+  <!-- ANCHOR NAVIGATION -->
   <nav class="flex flex-wrap gap-4 text-purple-700 dark:text-purple-400">
     <a href="#education">Education</a>
     <a href="#professional-experience">Professional Experience</a>
@@ -167,6 +168,7 @@
       <li>Descriptive Statistics</li>
       <li>Data Modelling Basics</li>
       <li>GenAI Prompt Design</li>
+      <li>Frontend Development</li>
       <li>SvelteKit form actions and server-side validation</li>
       <li>Responsive UI development with Tailwind CSS (including dark mode)</li>
       <li>Semantic, accessible HTML (WCAG-aligned markup)</li>
@@ -185,10 +187,16 @@
       <li>Health Care AI Innovation</li>
       <li>User Experience Design</li>
       <li>Computer-Aided Design</li>
+      <li>Human-Centered & ethical AI use</li>
       <li>Graphic Design</li>
       <li>3D Print Modelling</li>
       <li>Interactive Prototyping</li>
+      <li>Sustainable Development</li>
       <li>Event Curation</li>
+      <li>Interpretive Dance</li>
+      <li>Community Engagement & Social Work</li>
+      <li>Poetry</li>
+      <li>Travel & Cultural Exploration</li>
     </ul>
 
     <a href="#top" class="text-purple-700 dark:text-purple-400 hover:underline">Back to top ↑</a>
