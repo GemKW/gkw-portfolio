@@ -79,3 +79,24 @@ npm run preview
 
 ## Deploying
 The built project was deployed on Vercel after being added as a repository on GitHub. (https://gkw-portfolio.vercel.app/)
+
+To facilitate updates to the code, I ran 
+```bash
+git clone https://github.com/GemKW/gkw-portfolio.git
+```
+This created a fresh local copy of the repo Vercel is connected to.
+I then switched the workspace to the gkw-portfolio folder to work directly with the correct repository.
+
+I added 
+```bash
+npm run preview
+```
+to "Building for Production" to confirm I could commit and push updates. Then I ran 
+```bash
+git push origin main
+```
+This sent the update to the GitHub repository Vercel is watching.
+
+README changes automatically appeared on GitHub.  
+In case I need to make changes to the code, I would follow the same procedure and Vercel would automatically detect the push, start a new deployment and update the site.
+
