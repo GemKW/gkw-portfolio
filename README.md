@@ -25,10 +25,10 @@ Resend is also used as an environmnetal variable, set up in .env and called in t
 (Main code in routes/contact/+page.svelte) 
 
 Environmental variable (.env) contained the following code: 
-
+```
 RESEND_API_KEY=re_H8r4UvM9_EozgJx1uYUxXbndiuemaaBqq
 CONTACT_TO_EMAIL=gemkawira@outlook.com
-
+```
 which had to be manually added to Vercel upon deployment since GitHub excludes it from the repository.
 
 
