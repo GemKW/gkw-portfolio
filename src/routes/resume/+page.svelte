@@ -187,7 +187,7 @@
       <li>Health Care AI Innovation</li>
       <li>User Experience Design</li>
       <li>Computer-Aided Design</li>
-      <li>Human-Centered & ethical AI use</li>
+      <li>Human-Centered & Ethical AI use</li>
       <li>Graphic Design</li>
       <li>3D Print Modelling</li>
       <li>Interactive Prototyping</li>
