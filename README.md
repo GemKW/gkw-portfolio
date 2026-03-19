@@ -73,6 +73,9 @@ my-portfolio/
 ```bash
 npm run build
 ```
+```bash
+npm run preview
+```
 
 ## Deploying
 The built project was deployed on Vercel after being added as a repository on GitHub. (https://gkw-portfolio.vercel.app/)
