@@ -6,7 +6,7 @@ Welcome to my portfolio! This project showcases my work, skills and experience u
 - Responsive design
 - Resume section
 - Projects showcase
-- Contact form
+- Fully Functional Contact form
 - Theme toggle (light/dark)
 
 ## Detailed Sections
