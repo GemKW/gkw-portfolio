@@ -56,7 +56,7 @@
     </p>
     <ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
       <li>Contributed to the enhancement of the Proximal Humeral Plate (PHP) kit within the R&amp;D department.</li>
-      <li>Applied CAD modelling, mechanical testing, technical reporting and data interpretation to support product refinement.</li>
+      <li>Applied CAD modelling, mechanical testing, competitor analysis, technical reporting and data interpretation to support product refinement.</li>
       <li>Integrated user insights to drive functionality improvements with a focus on user-centred design.</li>
       <li>Developed strong collaboration, adaptability and technical communication skills in a multidisciplinary team.</li>
     </ul>
