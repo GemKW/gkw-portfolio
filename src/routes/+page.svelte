@@ -31,18 +31,18 @@
     <h2 class="text-2xl font-semibold">About Me</h2>
 
     <!-- Paragraph 1 -->
-    <p class="text-slate-600 dark:text-slate-300">
-      Having recently earned my Bachelor of Engineering Science from Flinders University, I am focused on building a career that leverages data and technology to improve lives. My professional experiences have involved hands‑on projects where I applied analytical thinking, quantitative methods and technical tools to solve dynamic challenges. These opportunities strengthened my reliability, adaptability and collaborative problem‑solving, while sharpening my ability to translate complex datasets into actionable insights.
-    </p>
+  <p class="text-slate-600 dark:text-slate-300">
+    I am a recent graduate who majored in biomedical engineering, transitioning into clinical data analysis and focused on turning clinical & operational data into clear, practical insights that improve care and service delivery. I work with clinical datasets to clean, harmonise and validate records, build reproducible ETL pipelines, and use SQL,R and Python for exploratory analysis, cohort discovery and basic predictive modelling. I also create dashboards and reports that help clinicians and managers make faster, evidence‑based decisions.
+  </p>
 
     <!-- Paragraph 2 -->
-    <p class="text-slate-600 dark:text-slate-300">
-      I thrive on generating fresh ideas and validating them through research, modelling & analytics, transforming raw information into meaningful, user‑focused solutions. My approach is driven by a genuine interest in designing data‑informed products and strategies that make a tangible difference. Open to working across any time zone, I embrace the opportunities of global collaboration. 
-    </p>
-
+  <p class="text-slate-600 dark:text-slate-300">
+    I take a pragmatic, collaborative approach: I prioritise data quality, reproducibility and clear documentation so analyses can be trusted and reused by clinical teams. I am comfortable translating technical results into plain‑language recommendations, working with clinicians, researchers and engineers, and I pay a great deal of attention to governance and privacy requirements when handling health data.
+  </p>
+ 
     <!-- Paragraph 3 -->
     <p class="text-slate-600 dark:text-slate-300">
-      Please find attached the projects I have worked on so far, along with the skills applied at the end of every project page. If my approach aligns with your vision, I would love the chance to connect and contribute to your organisation’s ecosystem with innovative, data‑driven solutions and a human‑centred mindset.
+      Please find attached the projects I have worked on so far, along with the skills applied. If my approach aligns with your vision, I would love the chance to connect and contribute to your organisation’s ecosystem with innovative, data‑driven solutions and a human‑centred mindset.
     </p>
   </section>
 
