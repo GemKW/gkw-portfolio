@@ -101,9 +101,9 @@
   <p class="text-slate-600 dark:text-slate-300">
     Relevant coursework: Excel (including Macros); Python; MATLAB; statistical analytics; designing tests; AI fundamentals; user experience design; leading & participating in diverse teams.
   </p>
-  </section>
 
     <a href="#top" class="text-purple-700 dark:text-purple-400 hover:underline">Back to top ↑</a>
+  </section>
 
   <!-- PROFESSIONAL EXPERIENCE -->
   <section id="professional-experience" class="space-y-4">
