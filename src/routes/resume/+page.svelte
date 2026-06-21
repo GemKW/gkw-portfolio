@@ -55,52 +55,52 @@
     Relevant coursework: GenAI fundamentals; prompt engineering; model integration into software workflows; API integration; ethical AI practices; frontend development (VS Code, SvelteKit, TypeScript, JavaScript, HTML, Tailwind CSS).
   </p>
 
-<p class="font-semibold text-slate-600 dark:text-slate-300">
-  Data Analysis & AI Graduate — Mediacrest Training College
-</p>
-<p class="text-slate-600 dark:text-slate-300">
-  February – March 2026
-</p>
-<p class="text-slate-600 dark:text-slate-300">
-  Relevant coursework: Structured & unstructured data handling; data validation; Python for data analysis; feature engineering; data visualization & presentation; basic model evaluation; foundational predictive analytics.
-</p>
+  <p class="font-semibold text-slate-600 dark:text-slate-300">
+    Data Analysis & AI Graduate — Mediacrest Training College
+  </p>
+  <p class="text-slate-600 dark:text-slate-300">
+    February – March 2026
+  </p>
+  <p class="text-slate-600 dark:text-slate-300">
+    Relevant coursework: Structured & unstructured data handling; data validation; Python for data analysis; feature engineering; data visualization & presentation; basic model evaluation; foundational predictive analytics.
+  </p>
 
-<p class="font-semibold text-slate-600 dark:text-slate-300">
-  Trainee, STEAM Ahead program
-</p>
-<p class="text-slate-600 dark:text-slate-300">
-  March – May 2023
-</p>
-<ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
-  <li>
-    Completed nine intensive workplace training modules that strengthened professional confidence and career readiness:
-    <ul style="list-style-type: circle" class="pl-6 mt-1 space-y-1">
-      <li>Module 1: Values, Strengths &amp; Goals</li>
-      <li>Module 2: Speak with Confidence</li>
-      <li>Module 3: Make Great Decisions</li>
-      <li>Module 4: Soft Skills for Career Success</li>
-      <li>Module 5: Effectively Manage People Conflict</li>
-      <li>Module 6: Elements of a Successful Team</li>
-      <li>Module 7: Understand Workplace Culture</li>
-      <li>Module 8: Strategy, Operations &amp; Innovation</li>
-      <li>Module 9: Lead through Adversity</li>
-    </ul>
-  </li>
-</ul>
+  <p class="font-semibold text-slate-600 dark:text-slate-300">
+    Trainee, STEAM Ahead program
+  </p>
+  <p class="text-slate-600 dark:text-slate-300">
+    March – May 2023
+  </p>
+  <ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
+    <li>
+      Completed nine intensive workplace training modules that strengthened professional confidence and career readiness:
+      <ul style="list-style-type: circle" class="pl-6 mt-1 space-y-1">
+        <li>Module 1: Values, Strengths &amp; Goals</li>
+        <li>Module 2: Speak with Confidence</li>
+        <li>Module 3: Make Great Decisions</li>
+        <li>Module 4: Soft Skills for Career Success</li>
+        <li>Module 5: Effectively Manage People Conflict</li>
+        <li>Module 6: Elements of a Successful Team</li>
+        <li>Module 7: Understand Workplace Culture</li>
+        <li>Module 8: Strategy, Operations &amp; Innovation</li>
+        <li>Module 9: Lead through Adversity</li>
+      </ul>
+    </li>
+  </ul>
 
-<p class="font-semibold text-slate-600 dark:text-slate-300">
-  Bachelor of Engineering Science, Major: Biomedical — Flinders University
-</p>
-<p class="text-slate-600 dark:text-slate-300">
-  February 2022 – December 2024
-</p>
-<p class="text-slate-600 dark:text-slate-300">
-  GPA: 6.04/7
-</p>
-<p class="text-slate-600 dark:text-slate-300">
-  Relevant coursework: Excel (including Macros); Python; MATLAB; statistical analytics; designing tests; AI fundamentals; user experience design; leading & participating in diverse teams.
-</p>
-</section>
+  <p class="font-semibold text-slate-600 dark:text-slate-300">
+    Bachelor of Engineering Science, Major: Biomedical — Flinders University
+  </p>
+  <p class="text-slate-600 dark:text-slate-300">
+    February 2022 – December 2024
+  </p>
+  <p class="text-slate-600 dark:text-slate-300">
+    GPA: 6.04/7
+  </p>
+  <p class="text-slate-600 dark:text-slate-300">
+    Relevant coursework: Excel (including Macros); Python; MATLAB; statistical analytics; designing tests; AI fundamentals; user experience design; leading & participating in diverse teams.
+  </p>
+  </section>
 
     <a href="#top" class="text-purple-700 dark:text-purple-400 hover:underline">Back to top ↑</a>
   </section>
