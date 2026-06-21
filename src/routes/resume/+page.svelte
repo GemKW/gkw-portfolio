@@ -104,7 +104,6 @@
   </section>
 
     <a href="#top" class="text-purple-700 dark:text-purple-400 hover:underline">Back to top ↑</a>
-  </section>
 
   <!-- PROFESSIONAL EXPERIENCE -->
   <section id="professional-experience" class="space-y-4">
@@ -281,5 +280,3 @@
     
     <a href="#top" class="text-purple-700 dark:text-purple-400 hover:underline">Back to top ↑</a>
   </section>
-
-</section>
