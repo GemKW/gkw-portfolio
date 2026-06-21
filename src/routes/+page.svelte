@@ -32,7 +32,7 @@
 
     <!-- Paragraph 1 -->
   <p class="text-slate-600 dark:text-slate-300">
-    I am a recent graduate who majored in biomedical engineering, transitioning into clinical data analysis and focused on turning clinical & operational data into clear, practical insights that improve care and service delivery. I work with clinical datasets to clean, harmonise and validate records, build reproducible ETL pipelines, and use SQL,R and Python for exploratory analysis, cohort discovery and basic predictive modelling. I also create dashboards and reports that help clinicians and managers make faster, evidence‑based decisions.
+    I am a recent graduate who majored in biomedical engineering, currently transitioning into clinical data analysis. I'm focused on turning clinical & operational data into clear, practical insights that improve care and service delivery. I work with clinical datasets to clean, harmonise and validate records, build reproducible ETL pipelines and use SQL, R and Python for exploratory analysis, cohort discovery and predictive modelling. I also create dashboards and reports that help clinicians and managers make faster, evidence‑based decisions.
   </p>
 
     <!-- Paragraph 2 -->
