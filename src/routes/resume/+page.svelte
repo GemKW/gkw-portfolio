@@ -88,6 +88,7 @@
     </li>
   </ul>
 
+
   <p class="font-semibold text-slate-600 dark:text-slate-300">
     Bachelor of Engineering Science, Major: Biomedical — Flinders University
   </p>
