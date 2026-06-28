@@ -15,7 +15,6 @@
   <nav class="flex flex-wrap gap-4 text-purple-700 dark:text-purple-400">
     <a href="#education">Education</a>
     <a href="#professional-experience">Professional Experience</a>
-    <a href="#other-experience">Other Experience</a>
     <a href="#technical-skills">Technical Skills</a>
     <a href="#interests">Interests</a>
     <a href="#referees">Referees</a>
