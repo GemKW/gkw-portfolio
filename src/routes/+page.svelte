@@ -33,12 +33,12 @@
 
     <!-- Paragraph 1 -->
   <p class="text-slate-600 dark:text-slate-300">
-    I am a recent graduate who majored in biomedical engineering, currently transitioning into clinical data and monitoring, evaluation & learning (MEAL). I focus on transforming clinical and operational data into actionable evidence that supports better decision-making, improved service delivery and stronger health outcomes. I enjoy working with healthcare datasets to clean, harmonise and validate records, and to build reproducible ETL pipelines. My work involves using Excel, SQL, R and Python to perform exploratory data analysis, cohort identification and outcome-focused modelling to support understanding of clinical trends and health system performance. I also develop dashboards and analytical reports that translate complex data into clear insights for decision-makers.
+    I am a recent graduate who majored in biomedical engineering, currently transitioning into clinical data and monitoring, evaluation, accountability & learning (MEAL). I focus on transforming clinical and operational data into actionable evidence that supports better decision-making, improved service delivery and stronger health outcomes. My work involves cleaning, harmonising, and transforming datasets as well as validating records. Additionally, I am experienced in using Excel, SQL, R and Python to build reproducible ETL pipelines & perform exploratory data analysis, cohort identification and outcome-focused modelling, thus supporting understanding of clinical trends and health system performance. I also develop dashboards and analytical reports that translate complex data into clear insights for decision-makers.
   </p>
 
     <!-- Paragraph 2 -->
   <p class="text-slate-600 dark:text-slate-300">
-    I take a pragmatic, learning-oriented approach grounded in data quality, reproducibility and transparency, ensuring that analyses can be trusted and used for programme learning and improvement. I am comfortable translating technical findings into clear, actionable recommendations and working across clinicians, researchers and programme teams. I also place strong emphasis on ethical data use, governance and privacy in health data systems, particularly in sensitive and resource-constrained settings.
+    I take a pragmatic, learning-oriented approach grounded in data quality, reproducibility and transparency, ensuring that analyses can be trusted and used for programme learning and improvement. I am comfortable translating findings into actionable recommendations and working across technical & non-technical teams. I also place strong emphasis on ethical data use, governance and privacy in data systems, particularly in sensitive and resource-constrained settings.
   </p>
 
     <!-- Paragraph 3 -->
