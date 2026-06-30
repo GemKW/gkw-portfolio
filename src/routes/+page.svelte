@@ -33,7 +33,7 @@
 
     <!-- Paragraph 1 -->
   <p class="text-slate-600 dark:text-slate-300">
-    I am a recent graduate who majored in biomedical engineering, currently transitioning into clinical data and monitoring, evaluation, accountability & learning (MEAL). I focus on transforming clinical/operational data into actionable evidence that supports better decision-making, improved service delivery and stronger outcomes. My work involves cleaning, harmonising, and transforming datasets as well as validating records. Additionally, I am experienced in using Excel, SQL, R and Python to build reproducible ETL pipelines & perform exploratory data analysis, cohort identification and outcome-focused modelling, thus supporting understanding of trends and system performance. I also develop dashboards and analytical reports that translate complex data into clear insights for decision-makers.
+    I am a recent graduate who majored in biomedical engineering, currently transitioning into health data and monitoring, evaluation, accountability & learning (MEAL). I focus on transforming clinical/operational data into actionable evidence that supports better decision-making, improved service delivery and stronger outcomes. My work involves cleaning, harmonising, and transforming datasets as well as validating records. Additionally, I am experienced in using Excel, SQL, R and Python to build reproducible ETL pipelines & perform exploratory data analysis, cohort identification and outcome-focused modelling, thus supporting understanding of trends and system performance. I also develop dashboards and analytical reports that translate complex data into clear insights for decision-makers.
   </p>
 
     <!-- Paragraph 2 -->
