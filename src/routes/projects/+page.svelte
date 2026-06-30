@@ -2,12 +2,12 @@
 
 <section class="mt-10 space-y-4">
   <h2 class="text-2xl font-semibold">Projects</h2>
-
   <ul class="space-y-3">
+
     <li class="rounded-xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-900">
-      <h3 class="font-semibold">SALAMA: AI-Driven Digital Health Tool Impact Model-</h3>
+      <h3 class="font-semibold">SALAMA Impact Model</h3>
       <a
-        href="https://app.notion.com/p/SALAMA-AI-Driven-Digital-Health-Tool-Impact-Model-364818564bef80058987c0023aa91560?source=copy_link"
+        href="https://app.notion.com/p/SALAMA-Impact-Model-364818564bef80058987c0023aa91560?source=copy_link"
         target="_blank"
         rel="noreferrer"
         class="inline-block mt-2 text-purple-700 hover:underline dark:text-purple-300"
@@ -15,6 +15,19 @@
         View on Notion →
       </a>
     </li>
+
+    <li class="rounded-xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-900">
+      <h3 class="font-semibold">SALAMA: AI‑Driven Digital Health Tool</h3>
+      <a
+        href="https://app.notion.com/p/SALAMA-AI-Driven-Digital-Health-Tool-38f818564bef805b8514ee8f43c3a702?source=copy_link"
+        target="_blank"
+        rel="noreferrer"
+        class="inline-block mt-2 text-purple-700 hover:underline dark:text-purple-300"
+      >
+        View on Notion →
+      </a>
+    </li>
+
 
     <li class="rounded-xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-900">
       <h3 class="font-semibold">Clinical Decision Support Model</h3>
