@@ -109,7 +109,7 @@
     <h2 class="text-2xl font-semibold">Professional Experience</h2>
 
     <p class="font-semibold text-slate-600 dark:text-slate-300">
-      Student Intern, Austofix (On-site)
+      Student Intern, Continuous Improvement, Austofix (On-site)
     </p>
     <p class="text-slate-600 dark:text-slate-300">July – December 2024</p>
     <ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
