@@ -186,7 +186,7 @@
   <li>Google BigQuery</li>
   <li>Google Cloud Platform (GCP) for Centralised Data Management</li>
   <li>Data Quality Assurance (DQA), Validation &amp; Lineage (Unit Tests, Reproducibility)</li>
-  <li Natural Language Processing (NLP)</li>
+  <li>Natural Language Processing (NLP)</li>
   <li>Research Data Management </li>
   <li>Model Evaluation, Routine Monitoring Frameworks &amp; Performance Tracking</li>
   <li>Data Governance, Ethics &amp; Regulatory Awareness (ICH GCP, Data Privacy, Audit Trails)</li>
