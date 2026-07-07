@@ -161,48 +161,45 @@
   <section id="technical-skills" class="space-y-4">
     <h2 class="text-2xl font-semibold">Technical Skills</h2>
 
-    <ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
-      <li>CSV / Excel Big Data Handling</li>
-      <li>Data Cleaning &amp; Preparation</li>
-      <li>Excel Macro Automation</li>
-      <li>SQL Database Handling</li>
-      <li>Exploratory Data Analysis</li>
-      <li>
-        Data Visualisation &amp; Dashboarding
-        <ul style="list-style-type: circle" class="pl-6 mt-1 space-y-1">
-          <li>Excel</li>
-          <li>Tableau</li>
-          <li>Power BI</li>
-        </ul>
-      </li>
+<ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
+  <li>Big Data Handling</li>
+  <li>Data Cleaning, Preparation &amp; Merging</li>
+  <li>Excel Macro Automation</li>
+  <li>SQL Database Handling (CTEs, Window Functions, Query Optimisation)</li>
+  <li>Exploratory Data Analysis (EDA) of Program Metrics</li>
+  <li>
+    Data Visualisation, Storytelling &amp; M&E Dashboarding
+    <ul style="list-style-type: circle" class="pl-6 mt-1 space-y-1">
+      <li>Excel</li>
+      <li>Tableau</li>
+      <li>Power BI</li>
     </ul>
+  </li>
+</ul>
 
-    <ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
-      <li>Python for Data Analysis (Pandas, NumPy, Matplotlib/Seaborn)</li>
-      <li>Descriptive Statistics</li>
-      <li>Data Modelling</li>
-      <li>OMOP mapping &amp; MIMIC‑III database</li>
-      <li>ETL pipelines &amp; orchestration</li>
-      <li>Google BigQuery</li>
-      <li>Google Cloud Platform (GCP)</li>
-      <li>Specialised clinical SQL patterns (CTEs, window functions, query optimisation)</li>
-      <li>Data quality, validation &amp; lineage (unit tests, data checks, reproducibility)</li>
-      <li>Clinical Natural Language Processing</li>
-      <li>Computational phenotyping &amp; predictive modelling</li>
-      <li>Clinical Data Management</li>
-      <li>Model evaluation &amp; monitoring</li>
-      <li>Data governance &amp; regulatory awareness (ICH‑GCP, data privacy, audit trails)</li>
-      <li>Version control &amp; reproducible workflows (Git; CI for data pipelines)</li>
-      <li>Basic statistics &amp; experimental design (sensitivity/specificity, A/B testing)</li>
-      <li>GenAI Prompt Design</li>
-      <li>Frontend Development</li>
-      <li>SvelteKit form actions and server-side validation</li>
-      <li>Responsive UI development with Tailwind CSS (including dark mode)</li>
-      <li>Semantic, accessible HTML (WCAG-aligned markup)</li>
-      <li>Transactional email integration using Resend API</li>
-      <li>Environment variable and secret management (.env)</li>
-      <li>Progressive enhancement with native HTML forms</li>
-    </ul>
+<ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
+  <li>Python for Data Analysis (Pandas, NumPy, Matplotlib/Seaborn)</li>
+  <li>Descriptive &amp; Inferential Biostatistics</li>
+  <li>Data Modelling &amp; Impact Forecasting</li>
+  <li>OMOP Clinical Outcome Data Models </li>
+  <li>ETL Pipelines &amp; Orchestration for Information Systems</li>
+  <li>Google BigQuery</li>
+  <li>Google Cloud Platform (GCP) for Centralised Data Management</li>
+  <li>Data Quality Assurance (DQA), Validation &amp; Lineage (Unit Tests, Reproducibility)</li>
+  <li Natural Language Processing (NLP)</li>
+  <li>Research Data Management </li>
+  <li>Model Evaluation, Routine Monitoring Frameworks &amp; Performance Tracking</li>
+  <li>Data Governance, Ethics &amp; Regulatory Awareness (ICH GCP, Data Privacy, Audit Trails)</li>
+  <li>Version Control &amp; Reproducible Research Workflows (Git; CI for Data Pipelines)</li>
+  <li>Experimental Design &amp; Evaluation (Sensitivity/Specificity, A/B Testing, Theory of Change)</li>
+  <li>GenAI Prompt Engineering</li>
+  <li>Frontend Development</li>
+  <li>SvelteKit Form Actions, Form Handling and Server-Side Validation</li>
+  <li>Responsive UI Development with Tailwind CSS</li>
+  <li>Semantic, Accessible HTML (WCAG-Aligned Markup for Inclusive Digital Tools)</li>
+  <li>Transactional Email Integration using Resend API</li>
+  <li>Environment Variable Management for Data Protection</li>
+</ul>
 
     <a href="#top" class="text-purple-700 dark:text-purple-400 hover:underline">Back to top ↑</a>    
   </section>
