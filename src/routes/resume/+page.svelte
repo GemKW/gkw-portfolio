@@ -208,13 +208,11 @@
   <section id="interests" class="space-y-4">
     <h2 class="text-2xl font-semibold">Interests</h2>
     <ul class="list-disc pl-6 space-y-1 text-slate-600 dark:text-slate-300">
-      <li>Health Care AI Innovation</li>
-      <li>User Experience Design</li>
-      <li>Computer-Aided Design</li>
       <li>Human-Centered & Ethical AI use</li>
-      <li>Graphic Design</li>
+      <li>Computer-Aided Design</li>
       <li>3D Print Modelling</li>
       <li>Interactive Prototyping</li>
+      <li>Graphic Design</li>
       <li>Sustainable Development</li>
       <li>Event Curation</li>
       <li>Interpretive Dance</li>
