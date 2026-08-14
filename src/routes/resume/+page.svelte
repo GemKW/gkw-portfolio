@@ -229,6 +229,7 @@
     <h2 class="text-2xl font-semibold">Referees</h2>
      <div class="space-y-1">
       <p class="font-bold text-slate-600 dark:text-slate-300">Richard Leibbrandt</p>
+      <p class="text-slate-600 dark:text-slate-300">Summer Research Project Lead</p>
       <p class="text-slate-600 dark:text-slate-300">Lecturer, College of Science and Engineering,</p>
       <p class="text-slate-600 dark:text-slate-300">Flinders University, Tonsley Campus</p>
       <a href="mailto:richard.leibbrandt@flinders.edu.au"
@@ -240,6 +241,7 @@
 
      <div class="space-y-1">
       <p class="font-bold text-slate-600 dark:text-slate-300">Ushmita Reebye</p>
+      <p class="text-slate-600 dark:text-slate-300">Supervisor</p>
       <p class="text-slate-600 dark:text-slate-300">Continuous Improvement Officer,</p>
       <p class="text-slate-600 dark:text-slate-300">Austofix, Thebarton, South Australia</p>
       <a href="mailto:ushmita.reebye@austofix.com.au"
@@ -253,7 +255,7 @@
       <p class="font-bold text-slate-600 dark:text-slate-300">Eddah Kanini</p>
       <p class="text-slate-600 dark:text-slate-300">Mentor</p>
       <p class="text-slate-600 dark:text-slate-300">Monitoring & Evaluation, Gender and Health Systems Consultant</p>
-      <p class="text-slate-600 dark:text-slate-300">Senior Board Member at AfrEA & MEPAK among others </p>
+      <p class="text-slate-600 dark:text-slate-300">Senior Board Member at AfrEA & MEPAK</p>
       <a href="mailto:eddahkan@gmail.com"
       class="text-blue-600 hover:underline dark:text-blue-400"
       >
