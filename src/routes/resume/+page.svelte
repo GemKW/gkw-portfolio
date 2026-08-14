@@ -228,17 +228,6 @@
   <section id="referees" class="space-y-6">
     <h2 class="text-2xl font-semibold">Referees</h2>
      <div class="space-y-1">
-      <p class="font-bold text-slate-600 dark:text-slate-300">Peter Ondieki</p>
-      <p class="text-slate-600 dark:text-slate-300">Clinical Director, Gateway Prosthetics and Orthotics</p>
-      <p class="text-slate-600 dark:text-slate-300">Mobile: +254 722 673976</p>
-      <a href="mailto:info@gatewayprosthetics.com"
-      class="text-blue-600 hover:underline dark:text-blue-400"
-      >
-        info@gatewayprosthetics.com
-      </a>
-     </div>
-
-     <div class="space-y-1">
       <p class="font-bold text-slate-600 dark:text-slate-300">Richard Leibbrandt</p>
       <p class="text-slate-600 dark:text-slate-300">Lecturer, College of Science and Engineering,</p>
       <p class="text-slate-600 dark:text-slate-300">Flinders University, Tonsley Campus</p>
@@ -261,13 +250,16 @@
      </div>
 
      <div class="space-y-1">
-      <p class="font-bold text-slate-600 dark:text-slate-300">Gabriel Onyango</p>
-      <p class="text-slate-600 dark:text-slate-300">Data Analysis &amp; AI Instructor, Mediacrest Training College</p>
-      <p class="text-slate-600 dark:text-slate-300">Mobile: +254 712 936932</p>
+      <p class="font-bold text-slate-600 dark:text-slate-300">Eddah Kanini</p>
+      <p class="text-slate-600 dark:text-slate-300">Mentor</p>
+      <p class="text-slate-600 dark:text-slate-300">Monitoring & Evaluation, Gender and Health Systems Consultant</p>
+      <p class="text-slate-600 dark:text-slate-300">Senior Board Member at Africa Evaluation Association (AfrEA) & Monitoring and Evaluation Professionals
+Association of Kenya (MEPAK) among others </p>
+      <p class="text-slate-600 dark:text-slate-300">Mobile: +254 721 447828</p>
       <a href="mailto:gabrielo.onyango@gmail.com"
       class="text-blue-600 hover:underline dark:text-blue-400"
       >
-        gabrielo.onyango@gmail.com
+        eddahkan@gmail.com
       </a>
      </div>
 
