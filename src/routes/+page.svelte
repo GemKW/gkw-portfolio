@@ -33,15 +33,19 @@
 
     <!-- Paragraph 1 -->
   <p class="text-slate-600 dark:text-slate-300">
-    I am a recent Engineering Science graduate who transitioned into research analysis, monitoring, evaluation, accountability & learning (MEAL). I apply a systems engineering mindset to transform research and operational data into actionable evidence that supports better decision‑making, improved service delivery and stronger outcomes. By integrating these systematic principles into my approach, I emphasise structured problem‑solving, iterative design and continuous feedback loops. My work involves validating, harmonising and transforming datasets. Additionally, I am experienced in using Excel, SQL, R and Python to build reproducible ETL pipelines & perform exploratory data analysis, cohort identification and outcome-focused modelling, thus supporting understanding of trends and system performance. I also develop Tableau & Power BI dashboards and analytical reports that translate complex data into clear insights for diverse stakeholders.
+    I am a recent Engineering Science graduate who transitioned into research analysis, monitoring, evaluation, accountability & learning (MEAL). I apply a systems engineering mindset to transform research and operational data into actionable evidence that supports better decision‑making, improved service delivery and stronger outcomes. By integrating these systematic principles into my approach, I emphasise structured problem‑solving, iterative design and continuous feedback loops. 
   </p>
 
     <!-- Paragraph 2 -->
   <p class="text-slate-600 dark:text-slate-300">
+    My work involves validating, harmonising and transforming datasets. Additionally, I am experienced in using Excel, SQL, R and Python to build reproducible ETL pipelines & perform exploratory data analysis, cohort identification and outcome-focused modelling, thus supporting understanding of trends and system performance. I also develop Tableau & Power BI dashboards and analytical reports that translate complex data into clear insights for diverse stakeholders.
+
+    <!-- Paragraph 3 -->
+  <p class="text-slate-600 dark:text-slate-300">
     I take a pragmatic, learning-oriented approach grounded in data quality, reproducibility and transparency, ensuring that analyses can be trusted and used for programme learning and improvement. I am comfortable translating findings into actionable recommendations and working across technical & non-technical teams. I also place strong emphasis on ethical data use, governance and privacy in data systems, particularly in sensitive settings.
   </p>
 
-    <!-- Paragraph 3 -->
+    <!-- Paragraph 4 -->
   <p class="text-slate-600 dark:text-slate-300">
     Please find attached the projects I have worked on so far, along with the skills applied. I would welcome the opportunity to contribute to your organisation’s ecosystem by supporting evidence generation, learning frameworks and continuous improvement. I am particularly motivated by work that applies practical, human‑centred and data‑informed solutions to complex challenges. My approach is guided by the Sustainable Development Goals, ensuring that innovation across various fields contributes to inclusive and lasting progress.
   </p>
