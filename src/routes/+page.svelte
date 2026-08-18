@@ -38,7 +38,7 @@
 
     <!-- Paragraph 2 -->
   <p class="text-slate-600 dark:text-slate-300">
-    My work involves validating, harmonising and transforming datasets. Additionally, I am experienced in using Excel, SQL, R and Python to build reproducible ETL pipelines & perform exploratory data analysis, cohort identification and outcome-focused modelling, thus supporting understanding of trends and system performance. I also develop Tableau & Power BI dashboards and analytical reports that translate complex data into clear insights for diverse stakeholders.
+    My work involves validating, harmonising and transforming datasets. Furthermore, I am experienced in using Excel, SQL, R and Python to build reproducible ETL pipelines & perform exploratory data analysis, cohort identification and outcome-focused modelling, thus supporting understanding of trends and system performance. I also develop Tableau & Power BI dashboards and analytical reports that translate complex data into clear insights for diverse stakeholders.
 
     <!-- Paragraph 3 -->
   <p class="text-slate-600 dark:text-slate-300">
